@@ -23,22 +23,16 @@
         string input = Console.ReadLine();
 
         int length = input.Length;
-
-        // Iterate through the input string
         for (int i = 0; i < length; i++)
         {
-            // Check if the current character is a digit
             if (char.IsDigit(input[i]))
             {
                 string potentialDate = "";
 
-                // Construct potential date from digits
                 for (int j = i; j < length && char.IsDigit(input[j]); j++)
                 {
                     potentialDate += input[j];
                 }
-
-                // If potential date has 8 digits, validate it
                 if (potentialDate.Length == 8)
                 {
                     int month = int.Parse(potentialDate.Substring(0, 2));
