@@ -1,0 +1,14 @@
+C:\Users\amanb\Desktop\Assignment(AmanBhardwaj)\bin\Debug\net8.0\Assignment(AmanBhardwaj).exe
+C:\Users\amanb\Desktop\Assignment(AmanBhardwaj)\bin\Debug\net8.0\Assignment(AmanBhardwaj).deps.json
+C:\Users\amanb\Desktop\Assignment(AmanBhardwaj)\bin\Debug\net8.0\Assignment(AmanBhardwaj).runtimeconfig.json
+C:\Users\amanb\Desktop\Assignment(AmanBhardwaj)\bin\Debug\net8.0\Assignment(AmanBhardwaj).dll
+C:\Users\amanb\Desktop\Assignment(AmanBhardwaj)\bin\Debug\net8.0\Assignment(AmanBhardwaj).pdb
+C:\Users\amanb\Desktop\Assignment(AmanBhardwaj)\obj\Debug\net8.0\Assignment(AmanBhardwaj).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanb\Desktop\Assignment(AmanBhardwaj)\obj\Debug\net8.0\Assignment(AmanBhardwaj).AssemblyInfoInputs.cache
+C:\Users\amanb\Desktop\Assignment(AmanBhardwaj)\obj\Debug\net8.0\Assignment(AmanBhardwaj).AssemblyInfo.cs
+C:\Users\amanb\Desktop\Assignment(AmanBhardwaj)\obj\Debug\net8.0\Assignment(AmanBhardwaj).csproj.CoreCompileInputs.cache
+C:\Users\amanb\Desktop\Assignment(AmanBhardwaj)\obj\Debug\net8.0\Assignment(AmanBhardwaj).dll
+C:\Users\amanb\Desktop\Assignment(AmanBhardwaj)\obj\Debug\net8.0\refint\Assignment(AmanBhardwaj).dll
+C:\Users\amanb\Desktop\Assignment(AmanBhardwaj)\obj\Debug\net8.0\Assignment(AmanBhardwaj).pdb
+C:\Users\amanb\Desktop\Assignment(AmanBhardwaj)\obj\Debug\net8.0\Assignment(AmanBhardwaj).genruntimeconfig.cache
+C:\Users\amanb\Desktop\Assignment(AmanBhardwaj)\obj\Debug\net8.0\ref\Assignment(AmanBhardwaj).dll
