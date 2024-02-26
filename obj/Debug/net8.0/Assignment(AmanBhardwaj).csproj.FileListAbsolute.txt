@@ -12,3 +12,4 @@ C:\Users\amanb\Desktop\Assignment(AmanBhardwaj)\obj\Debug\net8.0\refint\Assignme
 C:\Users\amanb\Desktop\Assignment(AmanBhardwaj)\obj\Debug\net8.0\Assignment(AmanBhardwaj).pdb
 C:\Users\amanb\Desktop\Assignment(AmanBhardwaj)\obj\Debug\net8.0\Assignment(AmanBhardwaj).genruntimeconfig.cache
 C:\Users\amanb\Desktop\Assignment(AmanBhardwaj)\obj\Debug\net8.0\ref\Assignment(AmanBhardwaj).dll
+C:\Users\amanb\Desktop\Assignment(AmanBhardwaj)\obj\Debug\net8.0\Assignment(AmanBhardwaj).sourcelink.json
